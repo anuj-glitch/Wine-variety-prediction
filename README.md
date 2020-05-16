@@ -20,9 +20,9 @@ The training Dataset consist of over 28 varieties of wine and 82,657 reviews of 
 
 
 Prediction of wine variety
-* Model used : ##LinearSVC ( sklearn.svm.LinearSVC )##  - LinearSVC is another (faster) implementation of Support Vector Classification
+* Model used : **LinearSVC ( sklearn.svm.LinearSVC )**  - LinearSVC is another (faster) implementation of Support Vector Classification
                                                       for the case of a linear kernel. it implements “one-vs-the-rest” multi-class 
                                                       strategy thus reducing the runtime significantly and also scale better to 
                                                       large numbers of samples. .
 
-* Accuracy attained: ##97.48 %##
+* Accuracy attained: **97.48 %**
